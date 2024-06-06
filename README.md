@@ -16,3 +16,7 @@ Foi um assunto envolto de vários sub-assuntos como Typescript, união de tipos,
 Aprendi que objetos são estruturas de dados que permitem armazenar e organizar dados de diferentes tipos, como strings, números, booleanos, funções e até mesmo outros objetos. Eles são fundamentais para a linguagem, pois são a base da sua natureza orientada a objetos. E eles podem ser usados como simulação de classes e heranças por protótipo, são muito versáteis e usados em praticamento a maioria dos aspectos de javascript.
 
 ## O que Almejo saber:
+
+Quero saber tudo aquilo que pode me agregar a crescer, tenho a mente aberta para absorver tudo aquilo que pode me gerar renda, programação é algo que não pode me escapar por ser algo que gosto muito. Desde criança sempre gostei muito da idéia de programar e todos os segredos que existe por cada aparelho que emite uma tela...
+
+## O que 
