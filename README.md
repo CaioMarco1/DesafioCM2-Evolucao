@@ -11,4 +11,6 @@ São essenciais para orgarnizar e estruturar um código. Funções são blocos d
 foi um assunto envolto de vários sub-assuntos como Typescript, união de tipos, tuplas, type narrowing e outros assuntos que foram bastante interessante :D
 
 
-* *objetos* aprendi que objetos são
+* *objetos*
+
+Aprendi que objetos são estruturas de dados que permitem armazenar e organizar dados de diferentes tipos, como strings, números, booleanos, funções e até mesmo outros objetos. Eles são fundamentais para a linguagem, pois são a base da sua natureza orientada a objetos. E eles podem ser usados como simulação de classes e heranças por protótipo, são muito versáteis e usados em praticamento a maioria dos aspectos de javascript
