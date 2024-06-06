@@ -3,7 +3,5 @@ Evolução de aprendizagem do desafio de carreira
 
 ## O que eu já sei:
 * *funções*
-  sdasgavcjhasbcjkansajsnca
-  sakdasjfbhakhscbsahkc
-  sdadasdad
+asdadhbabababababab amsdmkad
 * *objetos* aprendi que objetos são
